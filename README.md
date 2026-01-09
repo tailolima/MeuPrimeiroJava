@@ -1,9 +1,16 @@
 # Meu Primeiro Projeto Java
 
-Programa simples para demonstrar uso do Git e GitHub.
+> Um programa simples para demonstrar uso de Git, GitHub e boas práticas de desenvolvimento em Java.
 
-## 🛠️ Como rodar
+Este projeto foi criado para praticar:
+- Sintaxe básica de Java
+- Compilação e execução via linha de comando
+- Versionamento com Git e hospedagem no GitHub
 
-```bash
-javac Main.java
-java Main
+---
+
+## 🚀 Como rodar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/tailolima/MeuPrimeiroJava.git
